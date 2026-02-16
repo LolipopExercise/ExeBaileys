@@ -1,16 +1,16 @@
 {
-    "name": "qwerty-xcv/Baileys",
+    "name": "LolipopExercise/Baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By Lolipop",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/LolipopExercise/ExeBaileys",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/LolipopExercise/ExeBaileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "Lolipop.Team",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -45,7 +45,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:LolipopExercise/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://LolipopExercise/ExeBaileys/issues"
     }
 }
